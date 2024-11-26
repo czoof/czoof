@@ -8,14 +8,11 @@
 <ul>
   <li><b>Python</b>
     <ul>
-      <li><a href="#">Aim Trainer using Pygame and OOP</a></li>
       <li><a href="#">GUI-based Games: Color Game, Quiz Game, Computer Guessing Game</a></li>
       <li><a href="#">Automated Car Auction Project (OOP)</a></li>
       <li><a href="#">GUI Calculator (OOP)</a></li>
       <li><a href="#">To-Do List Application with Task Management</a></li>
       <li><a href="#">A.I. Chatbot Interface</a></li>
-      <li><a href="#">Number Converter (Roman, Binary, Octal, Hexadecimal)</a></li>
-      <li><a href="#">Language Translator</a></li>
     </ul>
   </li>
   <li><b>Java</b>
@@ -43,4 +40,3 @@
   <img align="left" alt="Charles Zufan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br clear="left"/>
-
