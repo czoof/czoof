@@ -1,29 +1,28 @@
-<h1>Hi, I'm Charles Zufan! <br/><a href="https://www.linkedin.com/in/charles-zufan-2b39b0293/">Computer Science Student</a>, <a href="https://github.com/yourgithub">Programmer</a>, <a href="https://www.sxu.edu">Scholar-Athlete</a></h1>
+# Hi, I'm Charles Zufan!  
+[Computer Science Student](https://www.sxu.edu), [Programmer](https://github.com/yourgithub), [Scholar-Athlete](https://www.sxu.edu)
 
-<h2>👨‍💻 Programming Projects:</h2>
+<img src="https://via.placeholder.com/150" alt="Charles Zufan" width="150px" />
 
-- <b>Python</b>
-  - <a href="#">Aim Trainer using Pygame and OOP</a>
-  - <a href="#">GUI-based Games: Color Game, Quiz Game, Computer Guessing Game</a>
-  - <a href="#">Automated Car Auction Project (OOP)</a>
-  - <a href="#">GUI Calculator (OOP)</a>
-  - <a href="#">To-Do List Application with Task Management</a>
-  - <a href="#">A.I. Chatbot Interface</a>
-  - <a href="#">Number Converter (Roman, Binary, Octal, Hexadecimal)</a>
-  - <a href="#">Language Translator</a>
+## 👨‍💻 Programming Projects:
+- **Python**
+  - [Aim Trainer using Pygame and OOP](#)
+  - [GUI-based Games: Color Game, Quiz Game, Computer Guessing Game](#)
+  - [Automated Car Auction Project (OOP)](#)
+  - [GUI Calculator (OOP)](#)
+  - [To-Do List Application with Task Management](#)
+  - [A.I. Chatbot Interface](#)
+  - [Number Converter (Roman, Binary, Octal, Hexadecimal)](#)
+  - [Language Translator](#)
 
-- <b>Java</b>
-  - <a href="#">Basic Calculator (Add/Subtract/Multiply/Divide)</a>
-  - <a href="#">Student Grading System</a>
-  - <a href="#">Number Guessing Games / Computer Guessing Games / Rock-Paper-Scissors</a>
+- **Java**
+  - [Basic Calculator (Add/Subtract/Multiply/Divide)](#)
+  - [Student Grading System](#)
+  - [Number Guessing Games / Computer Guessing Games / Rock-Paper-Scissors](#)
 
-<h2>🏆 Accomplishments:</h2>
-
+## 🏆 Accomplishments:
 - 3.8 GPA, Dean’s List, National Track and Field Athlete, Scholar-Athlete
 
-<h2>🤝 Connect with Me:</h2>
-
-<a href="https://www.linkedin.com/in/charles-zufan-2b39b0293/"><img align="left" alt="Charles Zufan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://github.com/yourgithub"><img align="left" alt="Charles Zufan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://www.instagram.com/charles.zufan/"><img align="left" alt="Charles Zufan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<br/>
+## 🤝 Connect with Me:
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/charles-zufan-2b39b0293/)  
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg)](https://github.com/yourgithub)  
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/charles.zufan/)
