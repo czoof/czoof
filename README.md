@@ -4,8 +4,6 @@
   <a href="https://www.sxu.edu">Scholar-Athlete</a>
 </h1>
 
-<img src="https://via.placeholder.com/150" alt="Charles Zufan" align="left" style="border-radius: 50%; margin-right: 15px;" />
-
 <h2>👨‍💻 Programming Projects:</h2>
 <ul>
   <li><b>Python</b>
@@ -45,3 +43,4 @@
   <img align="left" alt="Charles Zufan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br clear="left"/>
+
