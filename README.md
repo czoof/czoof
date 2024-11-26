@@ -25,6 +25,5 @@
 
 <a href="https://www.linkedin.com/in/charles-zufan-2b39b0293/"><img align="left" alt="Charles Zufan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://github.com/yourgithub"><img align="left" alt="Charles Zufan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-<a href="https://www.sxu.edu"><img align="left" alt="Charles Zufan | SXU" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/academia.svg" /></a>
+<a href="https://www.instagram.com/charles.zufan/"><img align="left" alt="Charles Zufan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br/>
-
