@@ -1,7 +1,7 @@
 <h1>Hi, I'm Charles Zufan! <br/>
   <a href="https://www.linkedin.com/in/charles-zufan-2b39b0293/">Computer Science Student</a>, 
   <a href="https://github.com/yourgithub">Programmer</a>, 
-  <a href="https://www.sxu.edu">Scholar-Athlete</a>
+  <a href="https://www.sxu.edu">National Track Athlete</a>
 </h1>
 
 <h2>👨‍💻 Programming Projects:</h2>
