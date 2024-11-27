@@ -4,25 +4,10 @@
   <a href="https://www.sxu.edu">National Track Athlete</a>
 </h1>
 
-<h2>👨‍💻 Programming Projects:</h2>
-<ul>
-  <li><b>Python</b>
-    <ul>
-      <li><a href="#">GUI-based Games: Color Game, Quiz Game, Computer Guessing Game</a></li>
-      <li><a href="#">Automated Car Auction Project (OOP)</a></li>
-      <li><a href="#">GUI Calculator (OOP)</a></li>
-      <li><a href="#">To-Do List Application with Task Management</a></li>
-      <li><a href="#">A.I. Chatbot Interface</a></li>
-    </ul>
-  </li>
-  <li><b>Java</b>
-    <ul>
-      <li><a href="#">Basic Calculator (Add/Subtract/Multiply/Divide)</a></li>
-      <li><a href="#">Student Grading System</a></li>
-      <li><a href="#">Number Guessing Games / Computer Guessing Games / Rock-Paper-Scissors</a></li>
-    </ul>
-  </li>
-</ul>
+<h2>📂 Coding Projects:</h2>
+<a href="https://github.com/yourgithub/CodingProjects">
+  <img alt="Coding Projects" src="https://img.shields.io/badge/GitHub-CodingProjects-blue?style=flat-square&logo=github" />
+</a>
 
 <h2>🏆 Accomplishments:</h2>
 <ul>
