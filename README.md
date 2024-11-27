@@ -1,11 +1,11 @@
 <h1>Hi, I'm Charles Zufan! <br/>
   <a href="https://www.linkedin.com/in/charles-zufan-2b39b0293/">Computer Science Student</a>, 
-  <a href="https://github.com/yourgithub">Programmer</a>, 
+  <a href="https://github.com/czoof">Programmer</a>, 
   <a href="https://www.sxu.edu">National Track Athlete</a>
 </h1>
 
 <h2>📂 Coding Projects:</h2>
-<a href="https://github.com/yourgithub/CodingProjects">
+<a href="https://github.com/czoof/CodingProjects">
   <img alt="Coding Projects" src="https://img.shields.io/badge/GitHub-CodingProjects-blue?style=flat-square&logo=github" />
 </a>
 
@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/charles-zufan-2b39b0293/">
   <img align="left" alt="Charles Zufan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/yourgithub">
+<a href="https://github.com/czoof">
   <img align="left" alt="Charles Zufan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/charles.zufan/">
