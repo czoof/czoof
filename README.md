@@ -16,7 +16,3 @@
 <a href="https://github.com/czoof">
   <img align="left" alt="Charles Zufan | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/charles.zufan/">
-  <img align="left" alt="Charles Zufan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br clear="left"/>
