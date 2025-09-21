@@ -4,11 +4,6 @@
   <a href="https://www.sxu.edu">National Track Athlete</a>
 </h1>
 
-<h2>📂 Coding Projects:</h2>
-<a href="https://github.com/czoof/CodingProjects">
-  <img alt="Coding Projects" src="https://img.shields.io/badge/GitHub-CodingProjects-blue?style=flat-square&logo=github" />
-</a>
-
 <h2>🏆 Accomplishments:</h2>
 <ul>
   <li>3.8 GPA, Dean’s List, National Track and Field Athlete, Scholar-Athlete</li>
